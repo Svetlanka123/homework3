@@ -1,0 +1,17 @@
+h1 {
+	color: #b94a48;
+	text-align: center;
+}
+p {
+	text-indent: 50px;
+	text-align: justify;
+}
+h2, h3 {
+	text-align: center;
+}
+
+ul {
+	font-weight: bold;
+	font-style: italic;
+	color: rgb(58, 135, 173) 
+	}
